@@ -23,6 +23,10 @@ Automated Calculations: Formulas and macros are used to dynamically update chart
 
 Rollover.png - A screenshot demonstrating the functionality of the rollover method.
 
+2_Financial_KPI_Leon.xlsx - An Excel workbook containing the Financial KPI Dashboard.
+
+2_Financial_KPI_Leon.png - A screenshot showcasing the Financial KPI Dashboard.
+
 ## Usage
 
 Open the 1_RolloverMethod_Leon.xlsm file in Microsoft Excel (ensure macros are enabled).
@@ -32,6 +36,10 @@ Interact with the product names list to dynamically display their respective rev
 Observe the graphical visualization of product ratings and total review count.
 
 Explore how the rollover method enables seamless user interaction.
+
+Open 2_Financial_KPI_Leon.xlsx to explore the Financial KPI Dashboard.
+
+Analyze various business metrics, such as sales performance, customer satisfaction, and hiring trends.
 
 Dependencies
 
